@@ -23,7 +23,7 @@
 </ul>
 <h2>Key Features:</h2>
 <ul>
-<li><b>User Authentication:</b> Secure login for administrators, students, and service providers.</li>
+<li><strong>User Authentication:</strong> Secure login for administrators, students, and service providers.</li>
 <li><b>Database Integration:</b> MySQL database stores student records, service details, and reviews.</li>
 <li><b>GUI Components:</b> Java Swing and AWT for intuitive user interfaces.</li>
 <li><b>Review System:</b> Students can rate and review college services (e.g., accommodation, transport).</li>
